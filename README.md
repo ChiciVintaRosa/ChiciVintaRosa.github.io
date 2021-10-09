@@ -2,7 +2,7 @@
 
 Aplikasi toko online berbasis web menggunakan framework CodeIgniter 3
 
-**NOTE:** File database ada di assets/db/ci_shop.sql
+**NOTE:** File database ada di assets/db/ci_shop (1).sql
 
 ## Tampilan Homepage
 
